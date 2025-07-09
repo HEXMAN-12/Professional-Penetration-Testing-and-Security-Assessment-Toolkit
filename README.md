@@ -12,7 +12,7 @@
   <p>A comprehensive web-based dashboard for password testing & network attacks</p>
 </div>
 
----
+
 
 ## 🎯 Overview
 
@@ -106,9 +106,14 @@ This Toolkit is a unified web interface that integrates multiple penetration tes
 
 The dashboard provides comprehensive hash analysis and password cracking capabilities using industry-standard tools.
 
-<video width="100%" controls autoplay muted loop>
-  <source src="documentation/demo videos/Password Identification and Cracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video src="https://github.com/user-attachments/assets/d744e633-8107-497d-b322-74eb394b4fb1" 
+       autoplay 
+       muted 
+       loop 
+       playsinline 
+       controls 
+       >
+Your browser does not support the video tag.
 </video>
 
 **Hash Detection & Analysis:**
@@ -130,10 +135,19 @@ The dashboard provides comprehensive hash analysis and password cracking capabil
 
 Automated password recovery for various file formats using optimized cracking techniques.
 
-<video width="100%" controls autoplay muted loop>
-  <source src="documentation/demo videos/File Cracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+
+<video src="https://github.com/user-attachments/assets/7741c3d9-1fba-4843-a5da-f8e7e793e822" 
+       autoplay 
+       muted 
+       loop 
+       playsinline 
+       controls 
+       >
+Your browser does not support the video tag.
 </video>
+
+
+
 
 **Supported File Formats:**
 
@@ -156,10 +170,16 @@ Automated password recovery for various file formats using optimized cracking te
 
 Professional-grade network authentication testing using Medusa and other specialized tools.
 
-<video width="100%" controls autoplay muted loop>
-  <source src="documentation/demo videos/Network Service Authentication Cracker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video src="https://github.com/user-attachments/assets/331ac682-3231-434b-a76f-00d8a90b7faf" 
+       autoplay 
+       muted 
+       loop 
+       playsinline 
+       controls 
+       >
+Your browser does not support the video tag.
 </video>
+
 
 **Supported Network Services:**
 
@@ -184,9 +204,14 @@ Professional-grade network authentication testing using Medusa and other special
 
 Generate targeted wordlists using CeWL (Custom Word List Generator) for enhanced attack precision.
 
-<video width="100%" controls autoplay muted loop>
-  <source src="documentation/demo videos/Wordlist Generation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video src="https://github.com/user-attachments/assets/942adae2-0d64-4c6d-b2da-51419f231723" 
+       autoplay 
+       muted 
+       loop 
+       playsinline 
+       controls 
+       >
+Your browser does not support the video tag.
 </video>
 
 **Website Analysis Capabilities:**
